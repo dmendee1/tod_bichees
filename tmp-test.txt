@@ -1,4 +1,0 @@
-useg #d9faff
-deed #adf4ff
-dood #00b5d1
-back #005461
